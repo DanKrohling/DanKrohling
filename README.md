@@ -1,4 +1,16 @@
-## Hi there 👋
+I research and build AI systems for complex decision-making.
+
+Research interests:
+• Machine Learning
+• Reinforcement Learning
+• Intelligent Agents
+• Knowledge Graphs
+• Predictive Modeling
+• Decision Intelligence
+
+Currently:
+Postdoctoral Researcher @ CONICET / INGAR
+Professor of AI & Machine Learning @ UTN
 
 <!--
 **DanKrohling/DanKrohling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
