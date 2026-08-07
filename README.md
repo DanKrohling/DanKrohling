@@ -16,6 +16,7 @@ My work sits at the intersection of:
 ## Research
 
 Postdoctoral Researcher at **CONICET / INGAR**
+
 Professor of Artificial Intelligence & Machine Learning at **UTN**
 
 My research has been applied to energy systems, automated negotiation, logistics, industrial processes and intelligent decision-support systems.
