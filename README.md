@@ -1,25 +1,57 @@
-I research and build AI systems for complex decision-making.
+# Dan Ezequiel Kröhling
 
-Research interests:
+### AI Research Scientist · Intelligent Systems Engineer
 
-• Machine Learning
+I research and build **AI and Machine Learning systems for complex decision-making**.
 
-• Reinforcement Learning
+My work sits at the intersection of:
 
-• Intelligent Agents
+* 🤖 Machine Learning & Reinforcement Learning
+* 🧠 Intelligent Agents & Multi-Agent Systems
+* 🕸️ Knowledge Graphs
+* 📈 Predictive & Surrogate Models
+* 🎯 Bayesian Optimization
+* 🏭 Industrial AI & Decision Intelligence
 
-• Knowledge Graphs
+## Research
 
-• Predictive Modeling
+Postdoctoral Researcher at **CONICET / INGAR**
+Professor of Artificial Intelligence & Machine Learning at **UTN**
 
-• Decision Intelligence
+My research has been applied to energy systems, automated negotiation, logistics, industrial processes and intelligent decision-support systems.
 
+## Selected Projects
 
-Currently:
+### 🧠 Intelligent Decision Systems
 
-• Postdoctoral Researcher @ CONICET / INGAR
+AI methods for decision-making under uncertainty.
 
-• Professor of AI & Machine Learning @ UTN
+### 🤖 Knowledge Graph AI Agents
+
+Context-aware agents combining Knowledge Graphs and intelligent decision-making.
+
+### 🎯 Reinforcement Learning Agents
+
+Learning and adaptation of strategies for autonomous agents.
+
+### ⚡ Machine Learning Surrogate Models
+
+Data-driven surrogates for computationally expensive simulation models.
+
+## Research Interests
+
+AI · Machine Learning · Reinforcement Learning · AI Agents · Knowledge Graphs · Predictive Modeling · Surrogate Modeling · Decision Intelligence
+
+## Tech
+
+Python · PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas · Neo4j · Jupyter · Git
+
+## Publications
+
+Selected research publications are available on my academic profiles.
+
+[Google Scholar] · [LinkedIn] · [ResearchGate]
+
 
 <!--
 **DanKrohling/DanKrohling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
