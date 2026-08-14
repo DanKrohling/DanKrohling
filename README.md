@@ -47,12 +47,14 @@ AI · Machine Learning · Reinforcement Learning · AI Agents · Knowledge Graph
 
 Python · PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas · Neo4j · Jupyter · Git
 
+<!--
 ![Python](https://img.shields.io/badge/Python-AI%20%26%20Research-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-Knowledge%20Graphs-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Research-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+-->
 
 ## Publications
 
