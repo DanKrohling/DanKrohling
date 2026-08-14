@@ -11,12 +11,6 @@ My work sits at the intersection of:
 * 🎯 Bayesian Optimization
 * 🏭 Industrial AI & Decision Intelligence
 
-## Research
-
-Postdoctoral Researcher at **CONICET / INGAR**
-
-Professor of AI, Machine Learning, and Intelligent Systems at **UTN**
-
 My research has been applied to automated negotiation, energy systems, logistics, industrial processes and intelligent decision-support systems.
 
 ## Selected Projects
@@ -37,22 +31,14 @@ Learning and adaptation of strategies for autonomous agents.
 
 Data-driven surrogates for computationally expensive simulation models.
 
-## Research Interests
-
-AI · Machine Learning · Reinforcement Learning · AI Agents · Knowledge Graphs · Predictive Modeling · Surrogate Modeling · Decision Intelligence
-
 ## Tech
 
-Python · PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas · Neo4j · Jupyter · Git
-
-<!--
 ![Python](https://img.shields.io/badge/Python-AI%20%26%20Research-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-Knowledge%20Graphs-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Research-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
--->
 
 ## Publications
 
