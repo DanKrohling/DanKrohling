@@ -42,7 +42,7 @@ Data-driven surrogates for computationally expensive simulation models.
 
 ## Publications
 
-Selected research publications are available on my academic profiles.
+Selected research publications are available on:
 
 [LinkedIn](https://www.linkedin.com/in/dan-ezequiel-kr%C3%B6hling/) · [ResearchGate](https://www.researchgate.net/profile/Dan-Kroehling?ev=hdr_xprf) · [Google Scholar](https://scholar.google.com/citations?hl=es&view_op=list_works&gmla=AO4B3jtpxrVbnE99Qcvugb4Baxc7sMCAITkp1Fmuo60JyIT4JJ0Kj4LH3wdXaKQR3WgIR-53MUddch7citLPJousWb22lCSt3g&user=FwjBR2UAAAAJ)
 
