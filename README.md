@@ -1,7 +1,5 @@
 # Dan Ezequiel Kröhling
 
-### AI Research Scientist | Intelligent Systems & Decision Intelligence
-
 I research and build **AI and intelligent systems for complex decision-making**.
 
 My work sits at the intersection of:
