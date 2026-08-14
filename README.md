@@ -47,28 +47,16 @@ AI · Machine Learning · Reinforcement Learning · AI Agents · Knowledge Graph
 
 Python · PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas · Neo4j · Jupyter · Git
 
-## Publications
-
-Selected research publications are available on my academic profiles.
-
-### Research
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Research-412991?style=flat-square&logo=scikitlearn&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Research-6C63FF?style=flat-square)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-AI%20Agents-8E44AD?style=flat-square)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-Reasoning-00897B?style=flat-square)
-![Decision Intelligence](https://img.shields.io/badge/Decision%20Intelligence-AI-5C6BC0?style=flat-square)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-Machine%20Learning-2E86AB?style=flat-square)
-![Surrogate Models](https://img.shields.io/badge/Surrogate%20Models-Scientific%20ML-6A5ACD?style=flat-square)
-
-### Tech
-
 ![Python](https://img.shields.io/badge/Python-AI%20%26%20Research-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-Knowledge%20Graphs-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Research-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Publications
+
+Selected research publications are available on my academic profiles.
 
 [LinkedIn](https://www.linkedin.com/in/dan-ezequiel-kr%C3%B6hling/) · [ResearchGate](https://www.researchgate.net/profile/Dan-Kroehling?ev=hdr_xprf) · [Google Scholar](https://scholar.google.com/citations?hl=es&view_op=list_works&gmla=AO4B3jtpxrVbnE99Qcvugb4Baxc7sMCAITkp1Fmuo60JyIT4JJ0Kj4LH3wdXaKQR3WgIR-53MUddch7citLPJousWb22lCSt3g&user=FwjBR2UAAAAJ)
 
